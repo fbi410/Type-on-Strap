@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://fbi410.github.io"
-title: Type on Strap # site's title
+title: 개발 기술 메모장 # site's title
 description: "A website with blog posts and pages" # used by search engines
 
 
